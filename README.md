@@ -7,12 +7,13 @@ Até o momento, essa lib gera um código criptografado, para ser usado na geraç
 
 # Relatos de Bugs, Dúvidas e Sugestões
 
-### Caso tenha algum dúvida, queira relatar um bug ou até mesmo sugerir uma melhoria, crie uma issue nesse repositório.
-### Caso queira ajudar na implementação, fique à vontade para contribuir. Abra um pull request e ele será analisado assim que possível!
+Caso tenha algum dúvida, queira relatar um bug ou até mesmo sugerir uma melhoria, crie uma issue nesse repositório.
+
+Caso queira ajudar na implementação, fique à vontade para contribuir. Abra um pull request e ele será analisado assim que possível!
 
 # Como instalar
 
-### Utilizando o gerenciador de pacotes npm, instale da seguinte maneira :
+Utilizando o gerenciador de pacotes npm, instale da seguinte maneira :
 
 ```
 npm install itau-shopline
@@ -20,7 +21,7 @@ npm install itau-shopline
 
 # Como usar
 
-### Essa lib foi desenvolvida pensando na utilização no backend com NodeJS.
+Essa lib foi desenvolvida pensando na utilização no backend com NodeJS.
 
 ```javascript
 
@@ -51,7 +52,7 @@ console.log(codigo); // nesse momento a variável codigo deve conter uma hash ou
 
 ```
 
-### O código gerado é utilizado para ser enviado via formulário post para um endpoint do shopline, como recomendado no material do Itaú.
+No front-end utilize um form, como recomendado no material do Itaú.
 
 ```html
 <form method="post" action="https://shopline.itau.com.br/shopline/shopline.aspx" target="SHOPLINE">
@@ -70,8 +71,8 @@ Para mais informações e implementações alternativas, acesse o PDF disponíve
    - Classe traduzida para js.
  - v1.0.1 - 15 de março de 2020
    - Melhoria na organização dos arquivos.
- - v1.0.1 - 15 de março de 2020
-   - Adicionadas informações do projeto.
+ - v1.0.2 - 15 de março de 2020
+   - Adicionadas informações sobre o projeto.
 
 # Autor
 

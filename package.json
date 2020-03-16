@@ -1,0 +1,29 @@
+{
+  "name": "itau-shopline",
+  "version": "1.0.2",
+  "description": "Versão NodeJS da antiga itaucripto.dll. Baseado na implementação em php",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruandsx/itau-shopline.git"
+  },
+  "keywords": [
+    "itau",
+    "shopline",
+    "boleto",
+    "pagamento",
+    "itaucripto"
+  ],
+  "author": "Ruan Xavier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruandsx/itau-shopline/issues"
+  },
+  "homepage": "https://github.com/ruandsx/itau-shopline#readme"
+}

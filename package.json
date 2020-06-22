@@ -1,6 +1,6 @@
 {
   "name": "itau-shopline",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Versão NodeJS da antiga itaucripto.dll. Baseado na implementação em php",
   "main": "lib/index.js",
   "directories": {

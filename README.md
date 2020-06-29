@@ -73,6 +73,8 @@ Para mais informações e implementações alternativas, acesse o PDF disponíve
    - Melhoria na organização dos arquivos.
  - v1.0.2 - 15 de março de 2020
    - Adicionadas informações sobre o projeto.
+ - v1.0.3 - 22 de junho de 2020
+   - Corrigido erro ao gerar boletos com casas decimais
 
 # Autor
 
